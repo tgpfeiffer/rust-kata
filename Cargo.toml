@@ -1,0 +1,7 @@
+[package]
+name = "rust-kata"
+version = "0.1.0"
+authors = ["Tobias Pfeiffer <tgpfeiffer@web.de>"]
+edition = "2018"
+
+[dependencies]
